@@ -61,7 +61,7 @@ Accuracy: The accuracy of skill extraction depends on the quality of the input j
 File Complexity: Very complex or poorly formatted files might not be parsed correctly.
 API Limitations: The Gemini API may have rate limits or errors depending on your API key usage.
 
-License
+## License
 This project is licensed under a proprietary license. All rights reserved. Unauthorized copying or distribution of this software, in whole or in part, is prohibited without express permission.
 
 For licensing inquiries, please contact kavin.nr@mazosol.com . 
