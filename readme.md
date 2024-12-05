@@ -62,6 +62,6 @@ File Complexity: Very complex or poorly formatted files might not be parsed corr
 API Limitations: The Gemini API may have rate limits or errors depending on your API key usage.
 
 ## License
-This project is licensed under a proprietary license. All rights reserved. Unauthorized copying or distribution of this software, in whole or in part, is prohibited without express permission.
+This project is licensed under a proprietary license. All rights reserved. Unauthorized copying or distribution of this code, in whole or in part, is prohibited without express permission.
 
 For licensing inquiries, please contact kavin.nr@mazosol.com . 
