@@ -39,7 +39,7 @@ Replace your_gemini_api_key_here with your actual API key from Google Gemini.
 - PDF (.pdf): Portable Document Format files
 
 Code Structure
-```bash app.py```
+```app.py```
 - Main script for running the Streamlit app.
 - Handles file uploads, skill extraction, and generates downloadable Word and PDF files.
 
