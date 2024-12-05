@@ -42,9 +42,9 @@ Code Structure
 ```app.py```
 - Main script for running the Streamlit app.
 - Handles file uploads, skill extraction, and generates downloadable Word and PDF files.
-
-Functions for skill extraction via regex and Gemini API.
-```bash .env```
+- Functions for skill extraction via regex and Gemini API.
+  
+``` .env```
 - Store sensitive data like API keys (e.g., for Google Gemini).
 
 ### How It Works
